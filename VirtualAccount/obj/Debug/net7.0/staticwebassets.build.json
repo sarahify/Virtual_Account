@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b9lalWM5jX+9ueUiymmUY31adxJLGDDd9nOx8Hd1PLY=",
+  "Source": "VirtualAccount",
+  "BasePath": "_content/VirtualAccount",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

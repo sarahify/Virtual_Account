@@ -1,0 +1,28 @@
+2024-01-22 09:35:27.661 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-01-22 09:35:28.095 +01:00 [INF] Now listening on: https://localhost:7065
+2024-01-22 09:35:28.097 +01:00 [INF] Now listening on: http://localhost:5200
+2024-01-22 09:35:28.100 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-22 09:35:28.108 +01:00 [INF] Hosting environment: Development
+2024-01-22 09:35:28.109 +01:00 [INF] Content root path: C:\Users\mokwe\OneDrive\Desktop\CDL Project\VirtualAccount\VirtualAccount
+2024-01-22 09:35:29.016 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7065/swagger/index.html - -
+2024-01-22 09:35:29.567 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7065/swagger/index.html - - - 200 - text/html;charset=utf-8 557.8558ms
+2024-01-22 09:35:29.608 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7065/_framework/aspnetcore-browser-refresh.js - -
+2024-01-22 09:35:29.629 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7065/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 21.2550ms
+2024-01-22 09:35:29.696 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7065/_vs/browserLink - -
+2024-01-22 09:35:29.799 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7065/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 103.1928ms
+2024-01-22 09:35:30.067 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7065/swagger/v1/swagger.json - -
+2024-01-22 09:35:30.112 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7065/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 45.0079ms
+2024-01-22 09:36:01.002 +01:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2024-01-22 09:36:01.467 +01:00 [INF] Now listening on: https://localhost:7065
+2024-01-22 09:36:01.469 +01:00 [INF] Now listening on: http://localhost:5200
+2024-01-22 09:36:01.471 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-01-22 09:36:01.472 +01:00 [INF] Hosting environment: Development
+2024-01-22 09:36:01.474 +01:00 [INF] Content root path: C:\Users\mokwe\OneDrive\Desktop\CDL Project\VirtualAccount\VirtualAccount
+2024-01-22 09:36:02.299 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7065/swagger/index.html - -
+2024-01-22 09:36:02.521 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7065/swagger/index.html - - - 200 - text/html;charset=utf-8 225.0031ms
+2024-01-22 09:36:02.563 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7065/_framework/aspnetcore-browser-refresh.js - -
+2024-01-22 09:36:02.581 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7065/_framework/aspnetcore-browser-refresh.js - - - 200 12360 application/javascript;+charset=utf-8 17.7758ms
+2024-01-22 09:36:02.589 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7065/_vs/browserLink - -
+2024-01-22 09:36:02.657 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7065/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 68.1922ms
+2024-01-22 09:36:02.871 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7065/swagger/v1/swagger.json - -
+2024-01-22 09:36:02.904 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7065/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 33.1494ms
